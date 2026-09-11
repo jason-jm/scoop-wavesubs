@@ -1,10 +1,10 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Generate SRT/ASS subtitles from any video with local AI and auto-translate them. No internet needed, free.",
     "homepage": "https://wavesubs.com",
     "license": "MIT",
-    "url": "https://github.com/jason-jm/wavesubs/releases/download/v1.0.4/Wave.Subs-1.0.4-win.zip",
-    "hash": "2328cc858ec7db8f8b7213a8d63ccfcc02929476179f260013ad5a5a16f57ea5",
+    "url": "https://github.com/jason-jm/wavesubs/releases/download/v1.0.5/Wave.Subs-1.0.5-win.zip",
+    "hash": "3a2a184058a6bc3318213ae2ce3154b1afed786959ac93bb360ee4989c7613cf",
     "shortcuts": [
         [
             "Wave Subs.exe",
